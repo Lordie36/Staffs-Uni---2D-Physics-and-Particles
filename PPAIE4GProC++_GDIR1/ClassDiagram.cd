@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Appearance" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAIAAAQAQAAAAAAAAAACIAABAAAAAAABBAA=</HashCode>
+      <FileName>Appearance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bulletAppearance" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAACIAAAABAAAAgBBAA=</HashCode>
+      <FileName>bulletAppearance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletEmitter" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAAEAFAAAAAgAAIEAAAAAQgAAEAEAQAAEAAA=</HashCode>
+      <FileName>BulletEmitter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bulletObject" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAggAACCAgAAAAABAUAAUAAAQAAAAACQQAAQCAAAA=</HashCode>
+      <FileName>bulletObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bulletParticleModel">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>omgQIEgBAAAFRUGYgBAAAIACgEEAEAwAAwRQeFBESAA=</HashCode>
+      <FileName>bulletParticleModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyObject" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBggAACCAAAAgAABAACAABAAQAIAAACQQAAQAAAAA=</HashCode>
+      <FileName>EnemyObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAggAACCAAAAgAABAACAAAAAQAIAAACQQAAQIAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicsM" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQIQQACABAAAAAAASAgAIAAAABAABAAAAIA=</HashCode>
+      <FileName>graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Particle" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAoAAAAAAAAASAAAAAEAAIACAAAGIAABABAAIAAFDAA=</HashCode>
+      <FileName>Particle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParticleModel">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oiiQAAgBCAEDRUWISAAAFIACgAEJAEwAAQRgfEFEQIA=</HashCode>
+      <FileName>ParticleModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerObject" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAgAAAAAAAAAAAQAAQAAAADAQQAAAAAAAA=</HashCode>
+      <FileName>PlayerObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulation" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEEAAAIAAAACIAAAAAAAAAAAAgBAgAgAAAFAAAAAA=</HashCode>
+      <FileName>simulation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorldData" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEBAAAACAIAAAgiAAIgAAJBCAQAIAAIgEAAEAAEAYo=</HashCode>
+      <FileName>worldData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagPoint2D" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>dataTypes.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Point2D" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dataTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pPoint2D" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dataTypes.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="keyEvent" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>input.h</FileName>
+    </TypeIdentifier>
+    <AliasOfLine Type="EVENT" FixedFromPoint="true">
+      <Path>
+        <Point X="2" Y="3.313" />
+        <Point X="2.375" Y="3.313" />
+        <Point X="2.375" Y="4.281" />
+        <Point X="2" Y="4.281" />
+      </Path>
+    </AliasOfLine>
+  </Typedef>
+  <Enum Name="EVENT" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAABACAAAAA=</HashCode>
+      <FileName>input.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
